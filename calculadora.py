@@ -11,4 +11,3 @@ if velocidade > limite_de_velocidade:
     print(f'MULTADO! Você ultrapassou o limite de velocidade e levou uma multa de R${valor_multa:.2f}')
 else:
     print('Tudo certo! Dirija com segurança!')
-
